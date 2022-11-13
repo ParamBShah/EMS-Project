@@ -1,0 +1,25 @@
+=============================================================
+
+Log In Details for EMS Project :-
+
+=============================================================
+
+For Admin :-
+
+Email: admin@admin.com
+
+Password: admin
+
+=============================================================
+
+For Employee :-
+
+Email: Employee's email address
+
+Password: Employee's password (default is: "1234")
+
+=============================================================
+
+Cookies in the browser must be enabled for this to work.
+
+=============================================================
