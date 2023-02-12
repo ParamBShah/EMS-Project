@@ -2,6 +2,6 @@
 
 -> All the files must be in the subdirectory "emstest".
 
--> The databse connection details must be replaced in "dbh.php" file in the processes folder.
+-> The databse connection details must be replaced in database process file in the processes folder.
 
 -> You need to change the code for cookie settings in the login and logout process files as it is currently domain specific.
